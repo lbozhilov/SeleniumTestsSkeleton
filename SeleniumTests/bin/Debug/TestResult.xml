@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.exe" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-01-16" time="22:57:08">
+  <environment nunit-version="2.5.10.11092" clr-version="4.0.30319.34209" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE" machine-name="MECHO" user="me4o" user-domain="IWIZARDS0" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.exe" executed="True" result="Failure" success="False" time="0.247" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SeleniumTests" executed="True" result="Failure" success="False" time="0.238" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Failure" success="False" time="0.237" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="CourtFilingTests" executed="True" result="Failure" success="False" time="0.237" asserts="0">
+                <results>
+                  <test-case name="SeleniumTests.Tests.CourtFilingTests.RunFirst" executed="True" result="Error" success="False" time="0.225" asserts="0">
+                    <failure>
+                      <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
+                      <stack-trace><![CDATA[at SeleniumTests.Login.login() in e:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\Login.cs:line 15
+at SeleniumTests.Tests.CourtFilingTests.RunFirst() in e:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\Tests\Court Filing\CourtFilingTests.cs:line 16
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

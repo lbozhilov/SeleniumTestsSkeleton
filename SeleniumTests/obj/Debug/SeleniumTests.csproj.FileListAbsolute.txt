@@ -1,0 +1,54 @@
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.exe.config
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csprojResolveAssemblyReference.cache
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\xunit.runner.utility.desktop.dll
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\xunit.abstractions.dll
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\chromedriver.exe
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\IEDriverServer.exe
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\IEDriverServer64.exe
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.exe
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.pdb
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.dll
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.Core.dll
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.Interfaces.dll
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.Linq.dll
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.PlatformServices.dll
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.dll
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.Support.dll
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.xml
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.Core.xml
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.Interfaces.xml
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.Linq.xml
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.PlatformServices.xml
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.xml
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.Support.xml
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.exe
+c:\users\me4o\documents\visual studio 2015\Projects\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.pdb
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.exe.config
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.exe
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.pdb
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\xunit.runner.utility.desktop.dll
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\xunit.abstractions.dll
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\chromedriver.exe
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\IEDriverServer.exe
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\IEDriverServer64.exe
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.exe
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.pdb
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.dll
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.Core.dll
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.Interfaces.dll
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.Linq.dll
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.PlatformServices.dll
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.dll
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.Support.dll
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.xml
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.Core.xml
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.Interfaces.xml
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.Linq.xml
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\System.Reactive.PlatformServices.xml
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.xml
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.Support.xml
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csprojResolveAssemblyReference.cache
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\Selenium.WebDriver.Extensions.Core.dll
+E:\Projects\SeleniumTestsRapidLegal\SeleniumTests\SeleniumTests\bin\Debug\SeleniumWebdriverHelpers.dll
