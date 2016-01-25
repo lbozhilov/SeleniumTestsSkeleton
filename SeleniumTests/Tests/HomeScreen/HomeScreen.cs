@@ -19,16 +19,19 @@ namespace SeleniumTests.Tests
 
         public void clickResetButton()
         {
+            Thread.Sleep(2000);
             driver.FindElement(By.XPath("//span[contains(text(),'Reset')]")).Click();
         }
 
         public void clickCancelButton()
         {
+            Thread.Sleep(2000);
             driver.FindElement(By.XPath("//span[contains(text(),'Cancel')]")).Click();
         }
 
         public void clickUpdateButton()
         {
+            Thread.Sleep(2000);
             driver.FindElement(By.XPath("//span[contains(text(),'Update')]")).Click();
         }
     }
